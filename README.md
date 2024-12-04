@@ -1,6 +1,5 @@
 
-# Neural Network Implementation and Analysis
-
+# Neural Network 
 This project focuses on implementing a neural network using Python and associated libraries. It involves designing, training, and testing the neural network on a given dataset to analyze its performance and effectiveness. The project also provides insights into machine learning model evaluation and deployment strategies.
 
 ## Getting Started
